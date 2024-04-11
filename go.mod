@@ -1,4 +1,4 @@
-module github.com/innovationnorway/terraform-provider-git
+module github.com/fsiler/terraform-provider-git
 
 go 1.14
 
